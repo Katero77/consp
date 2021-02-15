@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "4a9141541686f4ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ece50e9081b6c7e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/test.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3bc5024d77be828",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc6f975168b7da57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "299db319d93335c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73d353bdc9eada8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5643b5b6187ed21",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59c78ac79ed13b8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "06ffdde257cdf98b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14d4f2b9fae15068",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6a0b9210e416815",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9aa524b1e05eb2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Base/test.md",
+    "Base/Знания.md",
+    "Base/регулярные выражения.md",
+    "Templates/0 new note.md",
+    "Base/00 регуряные выражения.md",
+    "Base/Регулярные выражения.md",
+    "Base/ Регулярные выражения.md",
+    "test.md",
+    "Знания.md",
+    "Templates/Untitled.md"
+  ]
+}
